@@ -7,6 +7,8 @@
 4. `react-native run-{android|ios}`
 
 ### prerequisites 
-have react-native installed `npm install react-native-cli`
+have react-native installed `npm install react-native-cli` 
+
 have xcode installed 
+
 have an android emulator installed
